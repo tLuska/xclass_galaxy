@@ -1,1 +1,1 @@
-# xclass_galaxy
+# xclass_galaxy 1
